@@ -8,6 +8,11 @@
     "@cycle/dom": "^9.4.0",
     "rx": "^4.1.0"
   },
+  "babel":{
+    "presets": [
+      "es2015"
+    ]
+  },
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
