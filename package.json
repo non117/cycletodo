@@ -1,0 +1,25 @@
+{
+  "name": "cycletodo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@cycle/core": "^6.0.3",
+    "@cycle/dom": "^9.4.0",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/non117/cycletodo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/non117/cycletodo/issues"
+  },
+  "homepage": "https://github.com/non117/cycletodo#readme"
+}
