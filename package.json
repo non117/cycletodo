@@ -8,7 +8,10 @@
     "@cycle/dom": "^9.4.0",
     "rx": "^4.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
